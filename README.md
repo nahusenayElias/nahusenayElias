@@ -16,7 +16,7 @@ ___________________________________________________________________________
 ____________________________________________________________________________
 ### 🎓 Education:
 * Master of Arts - University of Helsinki
-* Full-Stack Web Development (in progress) - Self-learning and courses in React, PHP, Symfony, Drupal
+* Full-Stack Web Development (in progress) - @Business College Helsinki, React24K!
 
 ____________________________________________________________________________
 
