@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Elias!
 
 ### Master’s in Behavioral Sciences | Full-Stack Web Developer
-Welcome to my GitHub! I have a Master's degree in Behavioral Sciences from University of Helsinki, and I am currently transitioning into Full-Stack Web Development. My passion for creativity and technology has led me to explore the intersection of human experiences and software development.
+Welcome to my GitHub! I have a Master's degree in Behavioral Sciences (Adult Education & Developmental Work Research) from University of Helsinki, and I am currently transitioning into Full-Stack Web Development. My passion for creativity and technology has led me to explore the intersection of human experiences and software development.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nahusenayElias&color=blue)
 
