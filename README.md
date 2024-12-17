@@ -43,8 +43,8 @@ Here are some tools and technologies that I am familiar with:
  _______________________________________________________________________________
 ###  📫 How to reach me:
   * Email: eliasnahusenay@gmail.com
-  * GitHub: @nahusenayElias
-  * LinkedIn: Elias Nahusenay Hagos
+  * GitHub: https://github.com/nahusenayElias
+  * LinkedIn: https://www.linkedin.com/in/elias-nahusenay/
 
 _______________________________________________________________________________
 # Thank you for visiting! 😄
