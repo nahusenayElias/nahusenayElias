@@ -19,6 +19,9 @@ ____________________________________________________________________________
 * Full-Stack Web Development (in progress) - @Business College Helsinki, React24K!
 
 ____________________________________________________________________________
+### Internship done with Tutors Oy (Feb 03 - Apr 30, 2025)
+* Full stackw web developer
+____________________________________________________________________________
 
 ### 🔧 Tools & Technologies:
 Here are some tools and technologies that I am familiar with:
